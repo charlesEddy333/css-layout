@@ -1,0 +1,63 @@
+.div3{
+    width:100%;
+}
+
+.div1{
+    width:120px;
+    height:70px;
+    background-color: red;
+    float: left;
+}
+
+.div2{
+    width:1300px;
+    height:70px;
+    background-color: green;
+    float: left;
+}
+.div4{
+    clear: both;
+    width:120px;
+    height:70px;
+    background-color: yellow;
+    float: left;
+}
+
+.div8{
+    width:100%%
+}
+
+.div5{
+    width: 300px;
+    height:150px;
+    background-color: blue;
+    float: left;
+
+}
+
+
+.div6{
+    width: 300px;
+    height:150px;
+    background-color: blue;
+    float: left;
+
+}
+
+.div5{
+    width: 400px;
+    height:150px;
+    background-color: blue;
+    float: left;
+
+}
+
+
+.div11{
+    width:100%
+
+}
+
+.div12{
+    width:1000px
+}

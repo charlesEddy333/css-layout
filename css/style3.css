@@ -1,0 +1,84 @@
+.LOGO{
+    background-color: red;
+    color: black;
+    width: 140px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    margin-top: 
+
+}
+
+.WebsiteHeading{
+    background-color: darkgreen;
+    color: black;
+    width: 958px;
+    height: 100px;
+    text-align: center;
+    float: left;
+    
+}
+
+
+.menu{
+    background-Color:yellow;
+    Color:black;
+    width: 1098px;
+    height:150px;
+    text-align: center;
+    
+
+}
+.sec1{
+    background-color:darkblue;
+    height:150px;
+    width:366px;
+    float:left;
+    text-align: center;
+
+}
+.sec2{
+    background-color:gray;
+    height:150px;
+    width:366px;
+    float:left;
+    text-align: center;
+    
+
+}
+.sec3{
+    background-color:palevioletred;
+    height:150px;
+    width:366px;
+    float:left;
+    text-align: center;
+
+
+}
+.pagecontents{
+    background-Color:lightgreen;
+    Color:black;
+    width:920px;
+    height:260px;
+    text-align: center;
+    float: left;
+    
+}
+.sidebar{
+    background-Color:#4e5606;
+    Color:black;
+    width: 178px;
+    height:260px;
+    text-align: center;
+    float: left;
+    
+}
+.pagefooter{
+    background-Color:#2d2dd4;
+    Color:black;
+    width:1098px;
+    height:50px;
+    text-align: center;
+    float:left;
+
+}
